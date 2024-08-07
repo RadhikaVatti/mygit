@@ -1,1 +1,1 @@
-print("hello vanakkam")
+print("hello namaste")
